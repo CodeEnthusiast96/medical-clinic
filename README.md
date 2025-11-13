@@ -114,7 +114,6 @@ Fetch availability for a specific event type within a given date range.
       "start_time": "2025-11-14T20:00:00.000000Z",
       "end_time": "2025-11-14T20:30:00.000000Z"
     },
-    ...
   ]
 }
 ```
