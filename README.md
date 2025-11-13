@@ -1,7 +1,7 @@
 
 ---
 
-# Calendly Connection Test API
+# Calendly API endpoints.
 
 This FastAPI application is designed to connect to the [Calendly API](https://calendly.com/developers), fetch event types, retrieve availability, and create scheduling links. It allows you to test and interact with the Calendly API in a structured way.
 
