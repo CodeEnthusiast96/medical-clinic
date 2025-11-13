@@ -91,7 +91,6 @@ Fetch all event types for the connected Calendly user.
       "name": "Event Type Name",
       "description": "Event Type Description"
     },
-    ...
   ]
 }
 ```
